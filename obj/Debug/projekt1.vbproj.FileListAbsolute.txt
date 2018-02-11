@@ -1,0 +1,26 @@
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\Debug\projekt1.exe.config
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\projekt1.vbproj.GenerateResource.Cache
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\Debug\projekt1.exe
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\Debug\projekt1.pdb
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\Debug\projekt1.xml
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\projekt1.exe
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\projekt1.xml
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\projekt1.pdb
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\projekt1.vbprojResolveAssemblyReference.cache
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\RdlCompile.cache
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\Debug\RdlCompile.compiled
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\format\02.05.2015\BDC\BDC\projekt1\bin\Debug\BDC.exe.config
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\projekt1.vbproj.ResolveComReference.cache
+E:\format\02.05.2015\BDC\BDC\projekt1\bin\Debug\BDC.exe
+E:\format\02.05.2015\BDC\BDC\projekt1\bin\Debug\BDC.pdb
+E:\format\02.05.2015\BDC\BDC\projekt1\bin\Debug\BDC.xml
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\WindowsApplication1.Form1.resources
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\WindowsApplication1.Form2.resources
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\WindowsApplication1.Resources.resources
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\projekt1.vbproj.GenerateResource.Cache
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\BDC.exe
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\BDC.xml
+E:\format\02.05.2015\BDC\BDC\projekt1\obj\Debug\BDC.pdb

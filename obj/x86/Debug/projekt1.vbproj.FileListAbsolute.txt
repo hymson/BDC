@@ -1,0 +1,14 @@
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\projekt1.vbprojResolveAssemblyReference.cache
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\projekt1.vbproj.GenerateResource.Cache
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\x86\Debug\BDC.exe.config
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\x86\Debug\BDC.exe
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\x86\Debug\BDC.pdb
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\bin\x86\Debug\BDC.xml
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\BDC.exe
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\BDC.xml
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\BDC.pdb
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Hym\Documents\Visual Studio 2012\Projects\projekt1\projekt1\obj\x86\Debug\projekt1.vbproj.ResolveComReference.cache
